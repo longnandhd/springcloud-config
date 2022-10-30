@@ -1,2 +1,2 @@
 config:
-   info: "main branch,springCloud-config/config-dev.yml version=4 Post请求刷新"
+   info: "main branch,springCloud-config/config-dev.yml version=5 bus 消息总线"
